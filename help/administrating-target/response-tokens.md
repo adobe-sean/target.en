@@ -1,6 +1,6 @@
 ---
 keywords: response tokens;tokens;plugins;plug-ins;at.js;response
-description: Learn how to use response tokens in Adobe [!DNL Target] output-specific information to use in debugging and integrating with 3rd-party systems (such as Clicktale).
+description: Learn how to use response tokens in Adobe [!DNL Target] output-specific information to use in debugging and integrating with 3rd-party tools (such as Session Replay technology).
 title: What are Response Tokens and How Do I Use Them?
 feature: Administration & Configuration
 role: Administrator
@@ -8,7 +8,7 @@ exl-id: d0c1e914-3172-466d-9721-fe0690abd30b
 ---
 # Response tokens
 
-Response tokens let you automatically output information specific to [!DNL Adobe Target] to your brand's web page. This information can include details about the activity, offer, experience, user profile, geo information, and more. These details provide extra response data to share with internal or 3rd-party systems (such as Clicktale) or to use for debugging.
+Response tokens let you automatically output information specific to [!DNL Adobe Target] to your brand's web page. This information can include details about the activity, offer, experience, user profile, geo information, and more. These details provide extra response data to share with internal or 3rd-party tools (such as Session Replay technology) or to use for debugging.
 
 Response tokens let you choose which variables (in key value pairs) to use and then enable them to be sent as part of a [!DNL Target] response. You enable a variable using the switch and the variable is sent with [!DNL Target] responses, which can be validated in network calls. Response tokens also work in [!UICONTROL Preview] mode.
 
